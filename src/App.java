@@ -5,7 +5,7 @@ public class App {
         int counter = 0;
 		while (counter < 5) {
 			counter ++;
-			System.out.println(counter);
+			System.out.println("El numero es " + counter);
 		}
     }
 }
